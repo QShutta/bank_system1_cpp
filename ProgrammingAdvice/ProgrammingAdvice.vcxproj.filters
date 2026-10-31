@@ -1,0 +1,675 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Courses">
+      <UniqueIdentifier>{ba3f534a-d0a3-4c13-8003-c6d30af25b87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\Course3">
+      <UniqueIdentifier>{60698d4a-691e-4d23-943d-9becf176a0bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\course 2">
+      <UniqueIdentifier>{34ac34a4-b7d7-40db-b679-596df59783f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\Course 4">
+      <UniqueIdentifier>{9af8b185-f8fc-4e54-ae3d-5ac504609d25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\Course5">
+      <UniqueIdentifier>{763756e9-9f38-484d-a209-3d9f14ac2934}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\course 6">
+      <UniqueIdentifier>{cad5c8ae-23f6-46da-bb4b-f0a373ae1f83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\course 6\files">
+      <UniqueIdentifier>{e9c9f435-6786-4f49-b4a5-a063844a8efd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\course 6\date&amp;time">
+      <UniqueIdentifier>{ddf86ae6-6aaa-4199-af8f-16b5a5a06374}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\course 7">
+      <UniqueIdentifier>{3c2cd0bc-670c-47ab-bd33-d3b65da1ecdb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\course 7\Arrays">
+      <UniqueIdentifier>{5cf67117-953c-4fa7-a51c-2aac3a80a9fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\course 7\files">
+      <UniqueIdentifier>{99a00ff6-ccc5-40d2-834d-1f4c2dbad296}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="lesson12.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson17.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson18.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson19.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 20.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="14.cpp">
+      <Filter>Source Files\Courses\course 2</Filter>
+    </ClCompile>
+    <ClCompile Include="7.cpp">
+      <Filter>Source Files\Courses\course 2</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson21.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 23.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson23.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 25.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 26.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="27.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 28.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 29.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 30.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="31.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 32.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson33.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 34.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 35.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 36.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 37.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 38.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 39.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 40 struct&amp;fuction&amp;array.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 41.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 42.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 43.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 44.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="45 switch case.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="45.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="46.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 47.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 48.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 49.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 50.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 51.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 52.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 53.cpp">
+      <Filter>Source Files\Courses\Course3</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 1-5.cpp">
+      <Filter>Source Files\Courses\Course 4</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 6-10.cpp">
+      <Filter>Source Files\Courses\Course 4</Filter>
+    </ClCompile>
+    <ClCompile Include="11-15.cpp">
+      <Filter>Source Files\Courses\Course 4</Filter>
+    </ClCompile>
+    <ClCompile Include="16-20.cpp">
+      <Filter>Source Files\Courses\Course 4</Filter>
+    </ClCompile>
+    <ClCompile Include="21-25.cpp">
+      <Filter>Source Files\Courses\Course 4</Filter>
+    </ClCompile>
+    <ClCompile Include="26-30.cpp">
+      <Filter>Source Files\Courses\Course 4</Filter>
+    </ClCompile>
+    <ClCompile Include="31-35.cpp">
+      <Filter>Source Files\Courses\Course 4</Filter>
+    </ClCompile>
+    <ClCompile Include="36-40.cpp">
+      <Filter>Source Files\Courses\Course 4</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 41-45.cpp">
+      <Filter>Source Files\Courses\Course 4</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson 46-50.cpp">
+      <Filter>Source Files\Courses\Course 4</Filter>
+    </ClCompile>
+    <ClCompile Include="#1.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#2.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#3.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#4.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#5.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#6.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#7.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#8.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#9.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#10.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#11.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#12.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#13.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#14.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#15.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#16.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#17.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#18.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#19.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#20.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#21.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#22.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#23.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#24.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#25.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#26.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#28.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#29.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="myLibarary.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#30.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#31.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#32.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#33.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#34.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#35.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#36.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#37.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#38.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#39.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#40.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#41.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#42.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#43.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#44.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#45.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#46.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#47.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#48.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#49.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="#50.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="project2_math_game.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="project1_instructor_solution.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="project1_my_solution.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="prejct2_instructor_solution.cpp">
+      <Filter>Source Files\Courses\Course5</Filter>
+    </ClCompile>
+    <ClCompile Include="create_my_own_lib.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="short-hand-if.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="ranged_loop.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="validateInput.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="defination&amp;declaration.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="default_paramters.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="overloading.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="call_stact\call_hirahrcy.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="static_variable.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="autos.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_formating.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="float_formating.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="string&amp;char_formating.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="setw_mainbulator.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="tow_dimenstional_array.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="vector.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="verctor_add_elements.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="vector&amp;struct.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="remove_vector_elements.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="some_vector_functions.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="call_by_ref\call_by_value.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="deRefrencing.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer\vs\referne.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="call_by_refrence_using_pointer.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer&amp;struct.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="void_porinter.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamic_memory_location.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamic_array.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="vector_access_elements.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="change_vector_elements.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="vector_itreator.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="try&amp;catch.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="string_object.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="cctypefunctions.cpp">
+      <Filter>Source Files\Courses\course 6</Filter>
+    </ClCompile>
+    <ClCompile Include="write_to_files.cpp">
+      <Filter>Source Files\Courses\course 6\files</Filter>
+    </ClCompile>
+    <ClCompile Include="append_mode.cpp">
+      <Filter>Source Files\Courses\course 6\files</Filter>
+    </ClCompile>
+    <ClCompile Include="readFile.cpp">
+      <Filter>Source Files\Courses\course 6\files</Filter>
+    </ClCompile>
+    <ClCompile Include="load_data_from_file_to_vector.cpp">
+      <Filter>Source Files\Courses\course 6\files</Filter>
+    </ClCompile>
+    <ClCompile Include="save_vector_to_file.cpp">
+      <Filter>Source Files\Courses\course 6\files</Filter>
+    </ClCompile>
+    <ClCompile Include="delete_record_from_file.cpp">
+      <Filter>Source Files\Courses\course 6\files</Filter>
+    </ClCompile>
+    <ClCompile Include="update_file.cpp">
+      <Filter>Source Files\Courses\course 6\files</Filter>
+    </ClCompile>
+    <ClCompile Include="local\utc.cpp">
+      <Filter>Source Files\Courses\course 6\date&amp;time</Filter>
+    </ClCompile>
+    <ClCompile Include="date\time struct.cpp">
+      <Filter>Source Files\Courses\course 6\date&amp;time</Filter>
+    </ClCompile>
+    <ClCompile Include="transpare_array.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="column_sum.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="fill_3x3_matrix.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="fill_array_with_worder_numbers.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="mult_matrix.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="print_middle_row.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="sum_matrix.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="sum_of_matrix.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="check_matrix_equilivence.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="check_matrix_typical.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="check_identicaly.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="scaller_matrix.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="num_of_repetetion.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="sparce_matrix.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="check_number_in_matrix.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="intersected_matrix.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="printMin&amp;MaxInArray.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="checkPlandiromArray.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="febonichia.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="febonichi_using_recursion.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="printFirstLetter_in_string.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="convertFirstLetter_to_string.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="convertFirstLetter_to_lower.cpp">
+      <Filter>Source Files\Courses\course 7\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="lower&amp;upper.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="invert_char.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="invert_string.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="counter_capital_smal_letter.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="counter_char_in_string.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="isVowel.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="count_vowel_in_string.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="print_each_word_of_string.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="countNumOfWords_in_string.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="split_function.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="trim_function.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="join_vector.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="reverse_string.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="replace_word_in_string.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="43.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="remove_pounciation.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="convert_record_to_line.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="convert_line_to_struct.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="prac.cpp">
+      <Filter>Source Files\Courses</Filter>
+    </ClCompile>
+    <ClCompile Include="bank1.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="deleteRecordFromFile.cpp">
+      <Filter>Source Files\Courses\course 7\files</Filter>
+    </ClCompile>
+    <ClCompile Include="find_client_by_account_number.cpp">
+      <Filter>Source Files\Courses\course 7\files</Filter>
+    </ClCompile>
+    <ClCompile Include="show_file_content.cpp">
+      <Filter>Source Files\Courses\course 7\files</Filter>
+    </ClCompile>
+    <ClCompile Include="read_client_data_and_save_in_file.cpp">
+      <Filter>Source Files\Courses\course 7\files</Filter>
+    </ClCompile>
+    <ClCompile Include="updateRecordWithAccountNumber.cpp">
+      <Filter>Source Files\Courses\course 7\files</Filter>
+    </ClCompile>
+    <ClCompile Include="bank_instructor_solution.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="bank1_extenstion.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+    <ClCompile Include="bank_extension_instructor_solution.cpp">
+      <Filter>Source Files\Courses\course 7</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mathLib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="input.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="convert_string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="fileHandling.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
